@@ -7,4 +7,7 @@ public class CustomerInfoView {
 응?
 어?
 어?어!
+
+
+변재원이 여기다했어???
 }
