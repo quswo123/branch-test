@@ -8,10 +8,16 @@ public class CustomerInfoView {
 응?
 어?
 어?어!
+<<<<<<< HEAD
 dmd
 dmd
 아
 ㅏㅇ
 ㅏ아
 아
+=======
+
+
+변재원이 여기다했어???
+>>>>>>> jaewon2
 }
